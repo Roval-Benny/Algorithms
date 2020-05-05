@@ -23,7 +23,7 @@
 *     Stack
 *     Hash Table
 *     Linked List
-*     Binary Tree
+*     Binary Tree - BFS & DFS
 *     Graph
 
 
