@@ -2,7 +2,7 @@
 
     This file contains certain algorithms helpful in coding competitions.
 
-#### Sorting
+### Sorting
 
 *     Bubble Sort
 *     Selection Sort
@@ -11,13 +11,13 @@
 *     Quick Sort
 
 
-## Searching
+### Searching
 
 *     Binary Search
 *     Ternary Search
 
 
-## Data Structure
+### Data Structure
 
 *     Queue
 *     Stack
@@ -27,7 +27,7 @@
 *     Graph
 
 
-## Greedy Method
+### Greedy Method
 
 *     Fractional Knapsack
 *     Job Sequencing
