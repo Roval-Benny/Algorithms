@@ -16,6 +16,11 @@
 *     Binary Search
 *     Ternary Search
 
+### Greedy Method
+
+*     Fractional Knapsack
+*     Job Sequencing
+*     Dijkstra's Algorithm
 
 ### Data Structure
 
@@ -27,8 +32,5 @@
 *     Graph
 
 
-### Greedy Method
 
-*     Fractional Knapsack
-*     Job Sequencing
 
