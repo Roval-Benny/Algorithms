@@ -20,7 +20,8 @@
 
 *     Fractional Knapsack
 *     Job Sequencing
-*     Dijkstra's Algorithm
+*     Dijkstra's Algorithm - Matrix
+*     Dijkstra's Algorithm - List
 
 ### Data Structure
 
