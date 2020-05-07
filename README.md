@@ -22,6 +22,7 @@
 *     Job Sequencing
 *     Dijkstra's Algorithm - Matrix
 *     Dijkstra's Algorithm - List
+*     Minimum Cost Path
 
 ### Data Structure
 
