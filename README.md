@@ -1,6 +1,6 @@
 # Algorithms
 
-    This file contains certain algorithms helpful in coding competitions.
+    These files contain certain algorithms helpful in coding competitions.
 
 ### Sorting
 
@@ -23,6 +23,7 @@
 *     Dijkstra's Algorithm - Matrix
 *     Dijkstra's Algorithm - List
 *     Minimum Cost Path
+*     Ford-Fulkerson For Maximum Flow 
 
 ### Data Structure
 
