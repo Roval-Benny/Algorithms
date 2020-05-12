@@ -16,14 +16,6 @@
 *     Binary Search
 *     Ternary Search
 
-### Greedy Method
-
-*     Fractional Knapsack
-*     Job Sequencing
-*     Dijkstra's Algorithm - Matrix
-*     Dijkstra's Algorithm - List
-*     Minimum Cost Path
-*     Ford-Fulkerson For Maximum Flow 
 
 ### Data Structure
 
@@ -34,6 +26,19 @@
 *     Binary Search Tree - BFS & DFS
 *     Graph
 
+
+### Greedy Method
+
+*     Fractional Knapsack
+*     Job Sequencing
+*     Dijkstra's Algorithm - Matrix
+*     Dijkstra's Algorithm - List
+*     Minimum Cost Path
+*     Ford-Fulkerson For Maximum Flow 
+
+### Dynamic Programming
+
+*    0/1 Knapsack 
 
 
 
