@@ -39,6 +39,8 @@
 ### Dynamic Programming
 
 *    0/1 Knapsack 
+*    Coin Change Problem with Infinite Supplies of Coins
+*    Coin Change Problem with Finite Supplies of Coins
 
 
 
