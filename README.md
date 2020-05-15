@@ -38,9 +38,12 @@
 
 ### Dynamic Programming
 
-*    0/1 Knapsack 
+*    0/1 Knapsack Problem
 *    Coin Change Problem with Infinite Supplies of Coins
 *    Coin Change Problem with Finite Supplies of Coins
+*    Subset Sum Problem
+*    Find All Possible Subset Of Sum K
+
 
 
 
